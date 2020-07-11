@@ -11,15 +11,16 @@ export default class About extends Component {
                                 <div className="row row-bottom-padded-sm animate-box" data-animate-effect="fadeInLeft">
                                     <div className="col-md-12">
                                         <div className="about-desc">
-                                            <span className="heading-meta">About Us</span>
+                                            <span className="heading-meta">About</span>
                                             <h2 className="colorlib-heading">Who Am I?</h2>
-                                            <p>I am a computer grad student from DAIICT-Gandhinagar with ICT as my
-                                                major.I love exploring new technologies and often amazed by the progress
-                                                we as a human species have mad so far in the recent years (apart from
-                                                the headphone-jack part!!)</p>
-                                            <p>I have started reflecting my ideas and thougths through the medium of
-                                                words recently so spelling and grammer mistaks are very often.You can
-                                                write me back if you spot any and don't want to live anymore :P </p>
+                                            <p>Technology Student in Systems Analysis and Development at FATEC Carapicuíba,
+                                                Bachelor in Public Administration at UFOP, Programmer for Computers and
+                                                Mobile Devices at IFSP, Technician in Internet Computing at ETEC Guaracy
+                                                Silveira. Advanced domain in English and French intermediate, I have
+                                                good knowledge of computers, web design and administration.
+                                                My goal is to work in the area of ​​technology and communication.</p>
+                                            <p>I have started reflecting my ideas and thougths through the podcasts
+                                                from Urbanna Radio. </p>
                                         </div>
                                     </div>
                                 </div>
@@ -44,8 +45,8 @@ export default class About extends Component {
                 </span>
                                     <div className="desc">
                                         <h3>Web Development </h3>
-                                        <p>I have experience building websites and chrome extentions using
-                                            JavaScript,React,HTML,CSS</p>
+                                        <p>I have experience building websites using
+                                            PHP, Jekyll, Wordpress, JS, React, HTML, CSS</p>
                                     </div>
                                 </div>
                             </div>
@@ -56,8 +57,8 @@ export default class About extends Component {
                 </span>
                                     <div className="desc">
                                         <h3>Data Structures & Algorithms</h3>
-                                        <p>As coming from the CS background, I have good grasp over fundamental concepts
-                                            of DSA</p>
+                                        <p>As coming from the studing on the college,
+                                            I have knowlegde in DS and Algorithms</p>
                                     </div>
                                 </div>
                             </div>
@@ -68,8 +69,7 @@ export default class About extends Component {
                 </span>
                                     <div className="desc">
                                         <h3>Dev Ops</h3>
-                                        <p>I am pursuing my internship with DevOps team at Juniper and working with
-                                            tools like Jenkins, Docker, K8s</p>
+                                        <p>I'm Junior Developer in an Android Team, for TCS.</p>
                                     </div>
                                 </div>
                             </div>

@@ -1,6 +1,6 @@
 import React, {Component} from 'react'
 
-class Blog {
+export default class Blog extends Component{
     render() {
         return (
             <div>
@@ -16,7 +16,7 @@ class Blog {
                         <div className="row">
                             <div className="col-md-4 col-sm-6 animate-box" data-animate-effect="fadeInLeft">
                                 <div className="blog-entry">
-                                    <a href="blog.html" className="blog-img"><img src="%PUBLIC_URL%/images/blog-1.jpg"
+                                    <a href="blog.html" className="blog-img"><img src="images/blog-1.jpg"
                                                                                   className="img-responsive"
                                                                                   alt="HTML5 Bootstrap Template by colorlib.com"/></a>
                                     <div className="desc">
@@ -30,7 +30,7 @@ class Blog {
                             </div>
                             <div className="col-md-4 col-sm-6 animate-box" data-animate-effect="fadeInRight">
                                 <div className="blog-entry">
-                                    <a href="blog.html" className="blog-img"><img src="%PUBLIC_URL%/images/blog-2.jpg"
+                                    <a href="blog.html" className="blog-img"><img src="images/blog-2.jpg"
                                                                                   className="img-responsive"
                                                                                   alt="HTML5 Bootstrap Template by colorlib.com"/></a>
                                     <div className="desc">
@@ -44,7 +44,7 @@ class Blog {
                             </div>
                             <div className="col-md-4 col-sm-6 animate-box" data-animate-effect="fadeInLeft">
                                 <div className="blog-entry">
-                                    <a href="blog.html" className="blog-img"><img src="%PUBLIC_URL%/images/blog-3.jpg"
+                                    <a href="blog.html" className="blog-img"><img src="images/blog-3.jpg"
                                                                                   className="img-responsive"
                                                                                   alt="HTML5 Bootstrap Template by colorlib.com"/></a>
                                     <div className="desc">
